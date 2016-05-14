@@ -7,7 +7,6 @@
   "author": "Daisuke Baba",
   "license": "MIT",
   "dependencies": {
-    "mbed-drivers": "^1.5.0",
-    "mbed-hal-st-stm32f4": "1.3.4"
+    "mbed-drivers": "^1.5.0"
   }
 }
