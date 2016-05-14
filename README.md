@@ -24,3 +24,7 @@ Change `I2C_DISTANCE_ADDRESS` definition in gp2y0e03.hpp.
 # USB Serial Baud rate
 
 Set 115200 bps in order to connect to the USB serial port. The baud rate is set in config.json file.
+
+# Revision History
+* 1.0.0
+    - Initial Release
