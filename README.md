@@ -1,5 +1,9 @@
 gp2y0e03-example
 ====
+
+[![GitHub release](https://img.shields.io/github/release/dbaba/gp2y0e03-example-mbedos.svg)](https://github.com/dbaba/gp2y0e03-example-mbedos/releases/latest)
+[![License MIT](https://img.shields.io/github/license/dbaba/gp2y0e03-example-mbedos.svg)](http://opensource.org/licenses/MIT)
+
 Sharp IR Sensor GP2Y0E03 Example on mbed OS with Sync and Async I2C API
 
 # Setup instruction for ST-Microsystems Nucleo
@@ -26,5 +30,8 @@ Change `I2C_DISTANCE_ADDRESS` definition in gp2y0e03.hpp.
 Set 115200 bps in order to connect to the USB serial port. The baud rate is set in config.json file.
 
 # Revision History
+* 1.0.1
+    - Add .gitignore
+    - Update README text
 * 1.0.0
     - Initial Release

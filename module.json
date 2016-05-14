@@ -1,6 +1,6 @@
 {
   "name": "gp2y0e03-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": "./source",
   "private": true,
   "description": "Sharp IR Sensor GP2Y0E03 Example on mbed OS with Sync and Async I2C API",
